@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link rel="stylesheet" href="Hrank_CSS_v1.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style type ="text/css">
+body{
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+margin-top:0px;
+}
+</style>
+</head>
+
+<body>
+<div id ="container">
+
+
+    <div id="Header" >v.7  7.12.2019
+    <h1 id="welcome">H-RANK Keyword Extraction </h1>
+    <div id="firstdiv">
+    <b>Please insert Website here: <input id ="url" name ="url" type="text" autocomplete="off" placeholder=" Type a web page like: http://bbc.com" style="width:300px;">
+              <input id ="g" type="submit"  value="Go" name ="go" onclick ="onclciks()"  />  
+			<br> 
+              
+			  <h2 id ="msg"  >Loading </h2>
+<div id ="prg"> 
+<div id="p">
+<div id="b">
+</div> </div></div> 
+	</div>	
+	</div>	  
+	
+	
+<div id ="Menu">
+<textarea id = "disc" rows="4" cols="184"style ="background-color:#F0F8FF"> </textarea> 		  
+	</div>	    		  
+
+	
+	<input id ="btn" type ="button" value =" Hiding and Showing Discription" />
+
+<div id = "SideBar" >
+       
+<div id ="div2"> <Br/>
+<input id ="Text" type ="button" value ="Text" name ="nouns" onclick ="showText()" /><br/><br/>
+<input id "WORD_FREQUENCY" type ="button"  value = "Frequency" name ="WORD_FREQUENCY " onclick ="showWORD_FREQUENCY()"/><br/> <br/>
+
+<input id ="POS" type ="button" value ="POS" name ="Keywords" onclick ="showPOS()"/><br/><br/>
+<input id ="CLUSTERS" type ="button" value ="Clusters" name ="Keywords" onclick ="showCLUSTERS()"/><br/><br/>
+
+<input id ="keywords" type ="button" value ="Keywords" name ="Keywords" onclick ="showKeywords()"/><br/><br/>
+
+
+
+</div></div>
+
+
+<div id ="MainBody">
+<div id="output" >
+
+<pre id="output2">  </pre>  
+</div>
+</div>
+</div>
+
+
+<script>
+
+var input = document.getElementById("url");
+input.addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        document.getElementById("g").click();
+    }
+});
+
+
+function px(){
+   window.location.reload();
+}
+</script>
+
+
+
+<script type ="text/javascript" src ="Hrank_JS_v1.js"></script>
+
+<script type ="text/javascript" src ="Hrank_JS_v2.js"></script>
+
+</body>
+</html>
+ 
+             
+       
+
+
+       
+
+
+             
+       
+
+
+       
+

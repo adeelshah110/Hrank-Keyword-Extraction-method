@@ -1,0 +1,85 @@
+CLUSTER- 1 
+
+Frequency 	  Word 
+
+(8) 	 sport   
+(5) 	 travel   
+(5) 	 fight   
+(4) 	 football   
+(4) 	 fire   
+(4) 	 entertainment   
+(4) 	 arts   
+
+
+CLUSTER- 2 
+
+Frequency 	  Word 
+
+(10) 	 uk   
+(6) 	 home   
+(6) 	 china   
+(5) 	 europe   
+(5) 	 canada   
+(5) 	 south   
+(4) 	 russia   
+(4) 	 america   
+(4) 	 cambodia   
+(4) 	 africa   
+(4) 	 city   
+(4) 	 india   
+
+
+CLUSTER- 3 
+
+Frequency 	  Word 
+
+(10) 	 news   
+(7) 	 future   
+(6) 	 sounds   
+(5) 	 word   
+(4) 	 way   
+
+
+CLUSTER- 4 
+
+Frequency 	  Word 
+
+(7) 	 weather   
+(6) 	 storm   
+
+
+CLUSTER- 5 
+
+Frequency 	  Word 
+
+(10) 	 year   
+(5) 	 christmas   
+
+
+CLUSTER- 6 
+
+Frequency 	  Word 
+
+(12) 	 pictures   
+(10) 	 world   
+(6) 	 cup   
+(6) 	 office   
+(5) 	 casino   
+(4) 	 reel   
+
+
+CLUSTER- 7 
+
+Frequency 	  Word 
+
+(12) 	 business   
+(5) 	 culture   
+
+
+CLUSTER- 8 
+
+Frequency 	  Word 
+
+(6) 	 food   
+
+

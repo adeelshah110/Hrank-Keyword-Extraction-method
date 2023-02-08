@@ -1,0 +1,76 @@
+
+
+#container{
+	width:100%;
+	height:auto;	
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:11px;
+	margin-bottom:5px;
+}
+#Header{
+	height:auto;	
+	background-color:'green';
+	
+}
+#Menu{
+	Height:100%;	
+	background-color:white;
+	
+}
+#SideBar{
+	
+	width:8%;
+	height:270px;
+background-color:#EEE8AA;	
+float:left;
+margin-right:1%;
+text-align:center;
+
+}
+#MainBody{
+	
+	width:91%;	
+	height:auto;
+
+float:left;
+	
+}
+#Footer{
+	
+height:100px;
+background-color:orange;	
+
+clear:both;
+}
+
+#output2{
+font-size:15px;
+
+
+}
+
+#disc{
+	font-size:15px;
+	color:maroon;
+	
+}
+
+
+	
+	
+
+
+#p {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#b
+ {
+  width: 1%;
+  height: 30px;
+  
+  
+  background-color: #4CAF50;
+}

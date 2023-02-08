@@ -1,0 +1,51 @@
+Text files: 
+ 
+	1.	all words
+	2.	fr
+	3.	keywords
+	4.	nouns
+	5.	score.txt
+	6.	tags.txt
+	7.	url.txt
+	8.	finnish_StopWords_list.txt
+	9.	words.csv
+
+
+ 
+
+1-All words:
+
+	This txt file contain the text from the webpage. 	Written By program: 	Read By Program: 	Used at:
+
+
+2-fr
+
+	Frequency of the words 
+
+
+3-keywords 
+
+	Reading keywords
+
+
+
+4-Nouns 
+
+	Contain the nouns 
+
+5-Score.txt
+
+	Score for the individual words
+
+6-Tag 
+
+	is the tag information on the webpage
+
+7-url
+
+	 is read from php program and pass to python program to generate the text for the url
+
+8- words.csv
+ 
+	Is the wickipedia score for the individual words.
+
